@@ -9,7 +9,7 @@
 |-------|---------|
 | Name | Yash Gupta |
 | Registration Number | 24BAI10880|
-| Slot | B22 |
+| Slot | E22 |
 | Software Audited | Git |
 | License | GPL v2 |
 
